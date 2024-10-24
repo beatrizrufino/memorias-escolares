@@ -6,8 +6,8 @@
 
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f4f4f4;
-    color: #333;
+    background-color: #000;
+    color: #fff;
     padding: 20px;
 }
 
@@ -18,8 +18,8 @@ header {
 
 h1 {
     font-size: 2.5rem;
-    color: #444;
-    border-bottom: 2px solid #ccc;
+    color: #fff;
+    border-bottom: 2px solid #555;
     display: inline-block;
     padding-bottom: 10px;
 }
@@ -40,18 +40,18 @@ h1 {
 .photos img {
     width: 100%;
     height: auto;
-    border: 1px solid #ddd;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    border: 5px solid #fff;
+    box-shadow: 2px 2px 5px rgba(255, 255, 255, 0.2);
 }
 
 footer {
     text-align: center;
     padding: 20px 0;
-    background-color: #eee;
+    background-color: #111;
     margin-top: 20px;
     font-size: 1rem;
 }
 
 footer p {
-    color: #666;
+    color: #bbb;
 }
